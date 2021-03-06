@@ -1,7 +1,7 @@
 # Uniprotdownloader
 Get the Uniprot(Swissprot) data(information and cross-link IDs) and convert into a csv file. Convert the fasta file(swissprot,trembl,uniref90) into csv file.
 
-You can get swissprot data through this **easy** program. **This is only for my preliminary study, don't laugh at me, please:)**
+You can get swissprot data through this **easy** program. It could be useful for someone. **This is only for my preliminary study, don't laugh at me, please:)**
 
 1. Download the original data from https://www.uniprot.org/downloads .Reviewed (Swiss-Prot) text format for info and other ids ,fasta format for sequences.(If you download the txt file, you would get a dat format file, you can change it into txt format.)
 
